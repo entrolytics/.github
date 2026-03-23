@@ -5,7 +5,7 @@
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6.svg?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
   [![Next.js](https://img.shields.io/badge/Next.js-15-000000.svg?logo=next.js)](https://nextjs.org/)
   [![npm](https://img.shields.io/npm/v/@entrolytics/nextjs-sdk.svg?logo=npm&label=nextjs-sdk)](https://www.npmjs.com/package/@entrolytics/nextjs-sdk)
-  [![GitHub stars](https://img.shields.io/github/stars/entrolytics/entrolytics-ng.svg?logo=github)](https://github.com/entrolytics/entrolytics-ng/stargazers)
+  [![GitHub stars](https://img.shields.io/github/stars/entrolytics/entrolytics.svg?logo=github)](https://github.com/entrolytics/entrolytics/stargazers)
 
 </div>
 
@@ -88,8 +88,8 @@
 | Package | Install |
 |---------|---------|
 | [![Node.js](https://img.shields.io/badge/@entrolytics/node--sdk-339933?style=flat-square&logo=node.js&logoColor=white)](https://github.com/entrolytics/entrolytics-node) | `npm i @entrolytics/node-sdk` |
-| [![Python](https://img.shields.io/badge/entrolytics--ng-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/entrolytics/entrolytics-python-sdk) | `pip install entrolytics-ng` |
-| [![PHP](https://img.shields.io/badge/entrolytics--ng/php-777BB4?style=flat-square&logo=php&logoColor=white)](https://github.com/entrolytics/entrolytics-php-sdk) | `composer require entrolytics-ng/php` |
+| [![Python](https://img.shields.io/badge/entrolytics--ng-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/entrolytics/entrolytics-python-sdk) | `pip install entrolytics` |
+| [![PHP](https://img.shields.io/badge/entrolytics--ng/php-777BB4?style=flat-square&logo=php&logoColor=white)](https://github.com/entrolytics/entrolytics-php-sdk) | `composer require entrolytics/php` |
 | [![Go](https://img.shields.io/badge/entrolytics/go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/entrolytics/entrolytics-go-sdk) | `go get github.com/entrolytics/go` |
 
 ### Platform Integrations
@@ -155,8 +155,8 @@ export default function RootLayout({ children }) {
 
 ```bash
 # .env.local
-NEXT_PUBLIC_ENTROLYTICS_NG_WEBSITE_ID=your-website-id
-NEXT_PUBLIC_ENTROLYTICS_HOST=https://ng.entrolytics.click
+NEXT_PUBLIC_ENTROLYTICS_WEBSITE_ID=your-website-id
+NEXT_PUBLIC_ENTROLYTICS_HOST=https://entrolytics.click
 ```
 
 ## Documentation
@@ -176,9 +176,9 @@ NEXT_PUBLIC_ENTROLYTICS_HOST=https://ng.entrolytics.click
 
 <div align="center">
 
-[![Contributors](https://img.shields.io/github/contributors/entrolytics/entrolytics-ng.svg?logo=github)](https://github.com/entrolytics/entrolytics-ng/graphs/contributors)
-[![Issues](https://img.shields.io/github/issues/entrolytics/entrolytics-ng.svg?logo=github)](https://github.com/entrolytics/entrolytics-ng/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/entrolytics/entrolytics-ng.svg?logo=github)](https://github.com/entrolytics/entrolytics-ng/pulls)
+[![Contributors](https://img.shields.io/github/contributors/entrolytics/entrolytics.svg?logo=github)](https://github.com/entrolytics/entrolytics/graphs/contributors)
+[![Issues](https://img.shields.io/github/issues/entrolytics/entrolytics.svg?logo=github)](https://github.com/entrolytics/entrolytics/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/entrolytics/entrolytics.svg?logo=github)](https://github.com/entrolytics/entrolytics/pulls)
 
 </div>
 
@@ -186,9 +186,9 @@ We welcome contributions! See our [Contributing Guide](https://github.com/entrol
 
 | Type | Action |
 |------|--------|
-| Bug Report | [Open Issue](https://github.com/entrolytics/entrolytics-ng/issues/new?template=bug_report.md) |
-| Feature Request | [Open Discussion](https://github.com/entrolytics/entrolytics-ng/discussions/new?category=ideas) |
-| Question | [Start Discussion](https://github.com/entrolytics/entrolytics-ng/discussions) |
+| Bug Report | [Open Issue](https://github.com/entrolytics/entrolytics/issues/new?template=bug_report.md) |
+| Feature Request | [Open Discussion](https://github.com/entrolytics/entrolytics/discussions/new?category=ideas) |
+| Question | [Start Discussion](https://github.com/entrolytics/entrolytics/discussions) |
 
 ## License
 
@@ -198,7 +198,7 @@ All Entrolytics packages are released under the [MIT License](https://opensource
 
 <div align="center">
 
-  [![Website](https://img.shields.io/badge/Website-ng.entrolytics.click-6366f1?style=for-the-badge)](https://ng.entrolytics.click)
+  [![Website](https://img.shields.io/badge/Website-entrolytics.click-6366f1?style=for-the-badge)](https://entrolytics.click)
   [![Docs](https://img.shields.io/badge/Docs-docs.entrolytics.click-6366f1?style=for-the-badge)](https://docs.entrolytics.click)
   [![Twitter](https://img.shields.io/badge/Twitter-@entrolytics-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/entrolytics)
   [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/entrolytics)
