@@ -158,7 +158,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 ```bash
 # .env.local
 NEXT_PUBLIC_ENTROLYTICS_WEBSITE_ID=your-website-id
-NEXT_PUBLIC_ENTROLYTICS_HOST=https://entrolytics.click
+NEXT_PUBLIC_ENTROLYTICS_HOST=https://entrolytics.dev
 ```
 
 ## Documentation
@@ -167,10 +167,10 @@ NEXT_PUBLIC_ENTROLYTICS_HOST=https://entrolytics.click
 
 | Resource | Link |
 |----------|------|
-| Platform Docs | [docs.entrolytics.click](https://docs.entrolytics.click) |
-| API Reference | [docs.entrolytics.click/api](https://docs.entrolytics.click/api) |
-| SDK Documentation | [docs.entrolytics.click/sdks](https://docs.entrolytics.click/sdks) |
-| Self-Hosting Guide | [docs.entrolytics.click/self-hosting](https://docs.entrolytics.click/self-hosting) |
+| Platform Docs | [docs.entrolytics.dev](https://docs.entrolytics.dev) |
+| API Reference | [docs.entrolytics.dev/api](https://docs.entrolytics.dev/api) |
+| SDK Documentation | [docs.entrolytics.dev/sdks](https://docs.entrolytics.dev/sdks) |
+| Self-Hosting Guide | [docs.entrolytics.dev/self-hosting](https://docs.entrolytics.dev/self-hosting) |
 
 </div>
 
@@ -200,8 +200,8 @@ Entrolytics packages are released under the [MIT License](https://opensource.org
 
 <div align="center">
 
-  [![Website](https://img.shields.io/badge/Website-entrolytics.click-6366f1?style=for-the-badge)](https://entrolytics.click)
-  [![Docs](https://img.shields.io/badge/Docs-docs.entrolytics.click-6366f1?style=for-the-badge)](https://docs.entrolytics.click)
+  [![Website](https://img.shields.io/badge/Website-entrolytics.dev-6366f1?style=for-the-badge)](https://entrolytics.dev)
+  [![Docs](https://img.shields.io/badge/Docs-docs.entrolytics.dev-6366f1?style=for-the-badge)](https://docs.entrolytics.dev)
   [![Core Repo](https://img.shields.io/badge/GitHub-entrolytics-111111?style=for-the-badge&logo=github)](https://github.com/entrolytics/entrolytics)
   [![Ecosystem Repo](https://img.shields.io/badge/GitHub-entrolytics--ecosystem-111111?style=for-the-badge&logo=github)](https://github.com/entrolytics/entrolytics-ecosystem)
 
